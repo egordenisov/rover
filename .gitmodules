@@ -1,0 +1,3 @@
+[submodule "firmware/deneg-lib"]
+	path = firmware/deneg-lib
+	url = git@github.com:egordenisov/deneg-lib.git
